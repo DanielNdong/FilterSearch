@@ -16,9 +16,6 @@ function SearchBar({data}){
     console.log(query)
   }
 
-  function handleReset(){
-    setQuery('')
-  }
  
   return (
     
