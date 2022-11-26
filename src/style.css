@@ -68,6 +68,11 @@ main{
     justify-content: flex-start;
   }
 
+  .Divider{
+    display: none;
+    margin: 0 .2rem 0 1rem ;
+  }
+
 /*     .Stack{
     width: 100%;
     margin-left: auto;
@@ -92,6 +97,11 @@ main{
    grid-auto-rows: minmax(12rem, 16rem);
  }
 
-
 }
 
+@media screen and (min-width: 890px){
+  .Divider{
+    display: block;
+    margin: 0 .2rem 0 1rem ;
+  }
+}

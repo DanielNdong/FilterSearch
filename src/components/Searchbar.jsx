@@ -2,6 +2,7 @@ import React, {useState, createContext} from 'react'
 import Result from './Result'
 import UserContext from '../context/UserContext'
 import TextField from '@mui/material/TextField';
+import Divider from '@mui/material/Divider';
 
 
 function SearchBar({data}){
@@ -28,6 +29,7 @@ function SearchBar({data}){
     
       <TextField size="small" id="outlined-search" label="Search field" type="search" autoComplete='false' onChange={handleChangeQuery} value={query} placeholder='Filtra según tu interés'/>
      </div>
+     <Divider className="Divider" orientation="vertical" flexItem/>
       <Result className="Result" data={data} query={query}/>
     </div>
     </UserContext.Provider>
