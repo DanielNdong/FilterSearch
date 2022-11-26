@@ -36,7 +36,7 @@ export default function MarkItem({ elem, query }) {
       <CardMedia
         component="img"
         height="135"
-        image={element.picture}
+        image={elem.picture}
         alt="green iguana"
       />
       <CardContent>

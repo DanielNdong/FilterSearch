@@ -12,27 +12,27 @@ export const computer = [
   {
     id: 'computer-03', 
     title: 'Lenovo',
-    picture: 'https://www.bing.com/ck/a?!&&p=b419e06cab1841ddJmltdHM9MTY2OTQyMDgwMCZpZ3VpZD0yYzZjYjU1MS02NjNjLTZiN2YtMmI0OC1hNzM3NjdjMTZhYjMmaW5zaWQ9NTQ0NA&ptn=3&hsh=3&fclid=2c6cb551-663c-6b7f-2b48-a73767c16ab3&u=a1L2ltYWdlcy9zZWFyY2g_cT1Qb3J0JWMzJWExdGlsK0xlbm92byZGT1JNPUlBUlNMSw&ntb=1'
+    picture: 'https://th.bing.com/th/id/R.4b470426cde75489a42331564f33c061?rik=sD2QgrJI42NI5Q&pid=ImgRaw&r=0'
   },
   {
     id: 'computer-04', 
     title: 'Asus Chromebook Flip CX5',
-    picture: 'https://www.asus.com/co/Laptops/For-Home/Chromebook/ASUS-Chromebook-Flip-CX5-CX5400/'
+    picture: 'https://th.bing.com/th/id/OIP.BZzPccVRG6pN6OqAAk4vYQHaEB?pid=ImgDet&rs=1'
   },
   {
     id: 'computer-06', 
     title: 'Macbook Pro 13',
-    picture: 'https://www.bing.com/ck/a?!&&p=c4f019e5030e29d8JmltdHM9MTY2OTQyMDgwMCZpZ3VpZD0yYzZjYjU1MS02NjNjLTZiN2YtMmI0OC1hNzM3NjdjMTZhYjMmaW5zaWQ9NTQ2MA&ptn=3&hsh=3&fclid=2c6cb551-663c-6b7f-2b48-a73767c16ab3&u=a1L2ltYWdlcy9zZWFyY2g_cT1PcmRlbmFkb3IrTWFjQm9vaytQcm8mRk9STT1JQVJTTEs&ntb=1'
+    picture: 'https://th.bing.com/th/id/R.02dc22da7af0918a1169bfffffed9418?rik=bJIgs3JpuEqDtw&pid=ImgRaw&r=0'
   },
   {
     id: 'computer-07', 
     title: 'Macbook Air 13',
-    picture: 'https://www.bing.com/ck/a?!&&p=9110b2ec2fde062dJmltdHM9MTY2OTQyMDgwMCZpZ3VpZD0yYzZjYjU1MS02NjNjLTZiN2YtMmI0OC1hNzM3NjdjMTZhYjMmaW5zaWQ9NTQ1OA&ptn=3&hsh=3&fclid=2c6cb551-663c-6b7f-2b48-a73767c16ab3&u=a1L2ltYWdlcy9zZWFyY2g_cT1NYWNCb29rK0FpcisxMyZGT1JNPUlBUlNMSw&ntb=1'
+    picture: 'https://th.bing.com/th/id/R.cc54630feeea611dcf9cdb61209e8076?rik=oZd6HBX%2boQCsyQ&pid=ImgRaw&r=0'
   },
   {
     id: 'computer-08', 
     title: 'HP gaming OMEN 17',
-    picture: 'https://www.hp.com/es-es/shop/product.aspx?id=650G1EA&opt=ABE&sel=NTB'
+    picture: 'https://th.bing.com/th/id/R.427e3259cb4b258bfbe368053a76fff1?rik=Bm%2bkgGottscXyQ&pid=ImgRaw&r=0'
   },
   {
     id: 'computer-09', 
@@ -45,12 +45,12 @@ export const phone =  [
   {
     id: 'phone-01', 
     title: 'SPARK 9T',
-    picture: 'https://www.tecno-mobile.com/phones/product-detail/product/spark-9t/'
+    picture: 'https://th.bing.com/th/id/R.b2a118c4c35b8a5165d8d621b3f57090?rik=LbaJajW0F8lQEA&pid=ImgRaw&r=0'
   },
   {
     id: 'phone-02', 
     title: 'Huawei Mate 40 Pro',
-    picture: 'https://consumer.huawei.com/en/phones/mate40-pro/'
+    picture: 'https://th.bing.com/th/id/R.ba8662abf51b984a5b1a29dd6d4cf3a9?rik=0fdRMTvQvfktMQ&pid=ImgRaw&r=0'
   },
   {
     id: 'phone-03', 
@@ -59,13 +59,13 @@ export const phone =  [
   },
   {
     id: 'phone-04', 
-    title: 'HUAWEI Mate Xs 2',
-    picture: 'https://consumer.huawei.com/en/phones/mate-xs2/'
+    title: 'HUAWEI NOVA 9',
+    picture: 'https://welectronics.com/images/stories/virtuemart/product/Huaweinova9Problu.jpg'
   },
   {
     id: 'phone-05', 
     title: 'HUAWEI Mate X2',
-    picture: 'https://consumer.huawei.com/en/phones/mate-x2/'
+    picture: 'https://th.bing.com/th/id/R.ed5c1b3c4e6ec515a049deb1a3999747?rik=lbCSylViFTmRlg&pid=ImgRaw&r=0'
   },
   {
     id: 'phone-06', 
@@ -116,24 +116,14 @@ export const television = [
      picture: 'https://www.panasonic.com/content/dam/pim/es/es/TX/TX-65L/TX-65LZ980E/ast-1609280.png.pub.png?resize=272%3A204'
    },
    {
-     id: 'tele-03',
-     title: 'Sharp',
-     picture: ''
-   },
-   {
      id: 'tele-04',
      title: 'LG TV 4K OLED evo',
-     picture: 'https://www.lg.com/es/television/lg-oled83c24la'
+     picture: 'https://th.bing.com/th/id/R.7f2258a53aecdefef684e77e6179bd58?rik=oQuPpZEuOx602Q&pid=ImgRaw&r=0'
    },
    {
      id: 'tele-05',
      title:"Samsung TV Neo QLED 8K ",
      picture: 'https://images.samsung.com/is/image/samsung/p6pim/es/qe85qn800btxxc/gallery/es-qled-qn800b-416943-qe85qn800btxxc-531494088?$592_472_PNG$'
-   },
-   {
-     id: 'tele-06',
-     title:  'Apple TV',
-     picture: ''
    },
   
  ]
