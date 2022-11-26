@@ -36,7 +36,7 @@ export default function MarkItem({ elem, query }) {
       <CardMedia
         component="img"
         height="135"
-        image="https://mui.com/static/images/cards/paella.jpg"
+        image={element.picture}
         alt="green iguana"
       />
       <CardContent>

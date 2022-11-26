@@ -47,7 +47,7 @@ export default function Result({data, query}){
             <CardMedia
               component="img"
               height="132"
-              image="https://mui.com/static/images/cards/paella.jpg"
+              image={element.picture}
               alt="green iguana"
             />
             <CardContent>
